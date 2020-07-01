@@ -1,0 +1,56 @@
+body, html {
+	font-family: Roboto;
+}
+
+#title {
+	margin-left: 5%;
+}
+
+#carouselExampleSlidesOnly {
+	position: relative;
+}
+
+#headnav {
+	position: absolute;
+	z-index: 1;
+	color: white;
+	font-family: Roboto;
+}
+
+#accueil {
+	color: white;
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: url('Roboto-Light.ttf');
+}
+
+@font-face {
+	font-family: "Sifonn";
+	src: url('util/Sifonn_Pro.otf');
+}
+
+@font-face {
+	font-family: 'Sifonn Pro';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Sifonn Pro'), url('SIFONN_PRO.woff') format('woff');
+	}
+
+@font-face {
+	font-family: "Poppins";
+	src: url('util/Poppins_Light.otf');
+}
+
+@font-face {
+	font-family: "Roboto";
+	font-style: italic;
+	src: url('Roboto-Light.ttf');
+}
+
+@font-face {
+	font-family: "Roboto";
+	font-style: bold;
+	src: url('Roboto-Light.ttf');
+}
